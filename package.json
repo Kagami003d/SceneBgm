@@ -1,0 +1,19 @@
+{
+  "name": "com.kagami003d.scenebgm",
+  "displayName": "SceneBgm",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "license": "MIT",
+  "description": "Assign background music to each scene from an editor window (Continue / Stop / AudioClip per scene). Crossfades on scene load with a single fade time, warns about unset scenes at build time, and exposes a small static API (Play / Stop / Volume).",
+  "author": {
+    "name": "Kagami003d",
+    "url": "https://github.com/Kagami003d"
+  },
+  "keywords": [
+    "bgm",
+    "music",
+    "audio",
+    "scene"
+  ],
+  "dependencies": {}
+}
